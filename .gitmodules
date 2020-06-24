@@ -16,3 +16,6 @@
 [submodule "pants_on_fire"]
 	path = pants_on_fire
 	url = https://github.com/LeeYang2019/pants_on_fire.git
+[submodule "movie_db"]
+	path = movie_db
+	url = https://github.com/LeeYang2019/movie_db.git
