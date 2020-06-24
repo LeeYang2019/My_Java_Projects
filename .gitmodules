@@ -19,3 +19,6 @@
 [submodule "movie_db"]
 	path = movie_db
 	url = https://github.com/LeeYang2019/movie_db.git
+[submodule "game_of_life"]
+	path = game_of_life
+	url = https://github.com/LeeYang2019/game_of_life.git

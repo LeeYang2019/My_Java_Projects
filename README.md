@@ -4,7 +4,11 @@ A collection of java projects I've worked on.
 
 ## Introduction to Java Programming
 
-### PantsOnFire
+### Game_of_Life
+
+Link: https://github.com/LeeYang2019/game_of_life.git
+
+### Pants_On_Fire
 
 Link: https://github.com/LeeYang2019/pants_on_fire.git
 
