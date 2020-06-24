@@ -25,3 +25,6 @@
 [submodule "recipe_wrangler"]
 	path = recipe_wrangler
 	url = https://github.com/LeeYang2019/recipe_wrangler.git
+[submodule "my_favorite_places"]
+	path = my_favorite_places
+	url = https://github.com/LeeYang2019/my_favorite_places.git

@@ -8,6 +8,10 @@ A collection of java projects I've worked on.
 
 Link: https://github.com/LeeYang2019/game_of_life.git
 
+### My_Favorite_Places
+
+Link: https://github.com/LeeYang2019/my_favorite_places.git
+
 ### Pants_On_Fire
 
 Link: https://github.com/LeeYang2019/pants_on_fire.git
