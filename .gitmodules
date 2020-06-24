@@ -13,3 +13,6 @@
 [submodule "portal_snake"]
 	path = portal_snake
 	url = https://github.com/LeeYang2019/portal_snake.git
+[submodule "pants_on_fire"]
+	path = pants_on_fire
+	url = https://github.com/LeeYang2019/pants_on_fire.git
