@@ -15,6 +15,10 @@ Link: https://github.com/LeeYang2019/pants_on_fire.git
 ### PortalSnake
 
 Link: https://github.com/LeeYang2019/portal_snake.git
+
+### Recipe_Wrangler
+
+Link: https://github.com/LeeYang2019/recipe_wrangler.git
 <hr>
 
 ## Data Structures

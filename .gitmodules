@@ -22,3 +22,6 @@
 [submodule "game_of_life"]
 	path = game_of_life
 	url = https://github.com/LeeYang2019/game_of_life.git
+[submodule "recipe_wrangler"]
+	path = recipe_wrangler
+	url = https://github.com/LeeYang2019/recipe_wrangler.git
