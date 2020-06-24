@@ -7,3 +7,9 @@
 [submodule "HuffmanNode"]
 	path = HuffmanNode
 	url = https://github.com/LeeYang2019/HuffmanNode.git
+[submodule "measuring_cup"]
+	path = measuring_cup
+	url = https://github.com/LeeYang2019/measuring_cup.git
+[submodule "portal_snake"]
+	path = portal_snake
+	url = https://github.com/LeeYang2019/portal_snake.git
