@@ -1,0 +1,6 @@
+[submodule "Image-Receiver"]
+	path = Image-Receiver
+	url = https://github.com/LeeYang2019/Image-Receiver.git
+[submodule "PokemonGo_Console-based"]
+	path = PokemonGo_Console-based
+	url = https://github.com/LeeYang2019/PokemonGo_Console-based.git
