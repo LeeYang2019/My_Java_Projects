@@ -28,3 +28,9 @@
 [submodule "my_favorite_places"]
 	path = my_favorite_places
 	url = https://github.com/LeeYang2019/my_favorite_places.git
+[submodule "projects-LeeYang2019"]
+	path = projects-LeeYang2019
+	url = https://github.com/MadJavaAdvSpring2019/projects-LeeYang2019.git
+[submodule "managingMyTradingCards"]
+	path = managingMyTradingCards
+	url = https://github.com/LeeYang2019/managingMyTradingCards.git

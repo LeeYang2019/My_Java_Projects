@@ -46,3 +46,16 @@ Link: https://github.com/LeeYang2019/measuring_cup.git
 ### Movie_DB
 
 Link: https://github.com/LeeYang2019/movie_db.git
+<hr>
+
+## Advanced Java
+
+### Token_Analyzer
+
+Link: https://github.com/MadJavaAdvSpring2019/projects-LeeYang2019.git
+
+## Enterprise Java
+
+### Managing_My_Card_Collection
+
+Link: https://github.com/LeeYang2019/managingMyTradingCards.git
