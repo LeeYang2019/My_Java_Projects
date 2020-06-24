@@ -19,7 +19,7 @@ Link: https://github.com/LeeYang2019/portal_snake.git
 
 Link: https://github.com/LeeYang2019/PokemonGo_Console-based.git
 
-### Image-Receiver
+### Image_Receiver
 
 Link: https://github.com/LeeYang2019/Image-Receiver.git 
 
@@ -27,6 +27,6 @@ Link: https://github.com/LeeYang2019/Image-Receiver.git
 
 Link: https://github.com/LeeYang2019/HuffmanNode.git
 
-### HuffmanNode
+### Measuring_Cup
 
 Link: https://github.com/LeeYang2019/measuring_cup.git
