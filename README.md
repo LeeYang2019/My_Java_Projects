@@ -3,13 +3,17 @@ A collection of java projects I've worked on.
 
 ## Introduction to Java Programming
 
-### PantsOnFire
+<ol>
+    <li>
+        ### PantsOnFire
+        Link: https://github.com/LeeYang2019/pants_on_fire.git    
+    </li>
+    <li>
+        ### PortalSnake
+        Link: https://github.com/LeeYang2019/portal_snake.git    
+    </li>
+</ol>
 
-Link: https://github.com/LeeYang2019/pants_on_fire.git
-
-### PortalSnake
-
-Link: https://github.com/LeeYang2019/portal_snake.git
 
 ## Data Structures
 
