@@ -4,3 +4,6 @@
 [submodule "PokemonGo_Console-based"]
 	path = PokemonGo_Console-based
 	url = https://github.com/LeeYang2019/PokemonGo_Console-based.git
+[submodule "HuffmanNode"]
+	path = HuffmanNode
+	url = https://github.com/LeeYang2019/HuffmanNode.git
