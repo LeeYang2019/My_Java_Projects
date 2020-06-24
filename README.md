@@ -1,7 +1,7 @@
 # My_Java_Projects
 A collection of java projects I've worked on.
 
-# Introduction to Java Programming
+## Introduction to Java Programming
 
 ### PantsOnFire
 
@@ -11,7 +11,7 @@ Link: https://github.com/LeeYang2019/pants_on_fire.git
 
 Link: https://github.com/LeeYang2019/portal_snake.git
 
-# Data Structures
+## Data Structures
 
 ### PokemonGo_Console-based
 
